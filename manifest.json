@@ -1,8 +1,4 @@
 {
- "name": "Hotel Fazenda Costa do Sol",
- "background_color": "#FFFFFF",
- "start_url": "index.htm?installed=true",
- "theme_color": "#FFFFFF",
  "icons": [
   {
    "type": "image/png",
@@ -40,5 +36,9 @@
    "src": "misc/icon64.png"
   }
  ],
- "display": "fullscreen"
+ "background_color": "#FFFFFF",
+ "theme_color": "#FFFFFF",
+ "name": "Hotel Fazenda Costa do Sol",
+ "display": "fullscreen",
+ "start_url": "index.htm?installed=true"
 }
